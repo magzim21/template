@@ -119,6 +119,7 @@ Choose your license
 - [github bio generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 - [.gitignore file generator](https://www.toptal.com/developers/gitignore/)
 - [semver comparsion operators](https://github.com/Masterminds/semver)
+- [Markdown table generator](https://www.tablesgenerator.com/markdown_tables)
 
 ## Include Credits
 A list with maintainers should be here. People you may relay on.  
