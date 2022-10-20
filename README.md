@@ -15,7 +15,10 @@ Include a link to confluence not  to repeat yourslef (DRY).
 
 ## Getting started  
 Usage:
-![usage](https://public-bk-for-pics.s3.ca-central-1.amazonaws.com/git-template/CleanShot+2022-06-09+at+17.14.30.jpg)  
+![usage](https://public-bk-for-pics.s3.ca-central-1.amazonaws.com/git-template/CleanShot+2022-06-09+at+17.14.30.jpg)    
+- Clone new repo  
+- Copy files if there are any to the new repo.
+- Push
 
 ## Table of Contents (Optional)
 *optional  
