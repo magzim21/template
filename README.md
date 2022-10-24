@@ -39,6 +39,8 @@ optional
 Specify **dependencies to build** and **dependencies to deploy**.  
 Reminder: explicitly declare and isolate dependencies
 
+## Versions
+Specify **versions of software and tools** related to the project
 
 ## Features
 Consider following features for your furute repo:
