@@ -1,4 +1,6 @@
 #  Terraspace
+Version: v2.2.2
+
 - This is a Terraspace project. It contains code to provision Cloud infrastructure built with [Terraform](https://www.terraform.io/) and the [Terraspace Framework](https://terraspace.cloud/).
 - [Installing Terraspace](https://terraspace.cloud/docs/install/)
 - **Modules** are reusable pieces of code. Generally, it contains non-business specific logic (same as in Terraform).
