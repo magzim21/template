@@ -104,12 +104,11 @@ Use the same formatting for commit messages like [conventional commits](https://
 
 [optional footer(s)]
 ```
-Following this convention, CHANGELOG.md can be generated automatically.
-Conventional commmits can be "enforced" with Husky. [Husky](https://typicode.github.io/husky/#/) is a tool for git hooks.     
-Do `npx husky install` install githooks for this repo.  
-`.husky/commit-msg` enforces commit messages to follow [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/).  
+Following this convention, `standard-version` will be able generate `CHANGELOG.md`  automatically.
+Conventional commits can be "enforced" with Husky. [Husky](https://typicode.github.io/husky/#/) is a tool for git hooks.
+Do `npx husky install` to install **githooks** into this repo.
+`.husky/commit-msg` enforces commit messages to follow [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/).
 In this repo `.commitlintrc.yaml` is for this purpose.
-
 
 
 
