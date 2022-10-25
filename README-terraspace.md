@@ -35,7 +35,7 @@ terraspace all down -y
 - Use[ advanced layering](https://terraspace.cloud/docs/layering/full-layering/#layering-modes-simple-namespace-provider) to deploy to different aws accounts or different cloud providers.
 
 ### Known problems
-- Deleting `.tf` file does not delete it from the `.terraspace-cache` directory.
+- Deleting/renaming `.tf` file does not delete it from the `.terraspace-cache` directory.
 
 ### Variables
 - `terraspace/config/terraform/terraform.tfvars` This is one way to set a global  (for all stacks and environments) `.tfvars` file.
