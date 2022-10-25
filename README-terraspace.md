@@ -39,6 +39,7 @@ terraspace all down -y
 
 ### Variables
 - `terraspace/config/terraform/terraform.tfvars` This is one way to set a global  (for all stacks and environments) `.tfvars` file.
+- `/app/stacks/<stack name>/tfvars/base.tfvars`  This is a special name `base.tfvars`. This will work for all evnrionments withing the stack.
 - `terraspace seed <stack>` to create new `<TS_ENV>.tfvars` file in `<stack>` stack.
 
 
