@@ -13,7 +13,7 @@ This may include CI test status, deployments status, security checks, dependecie
 
 Include a link to confluence not  to repeat yourslef (DRY).
 
-## Getting started  
+## Getting started 🚀 
 Usage:
 ![usage](https://public-bk-for-pics.s3.ca-central-1.amazonaws.com/git-template/CleanShot+2022-06-09+at+17.14.30.jpg)    
 - Clone new repo  
@@ -24,7 +24,7 @@ Usage:
 *optional  
 TODO
 
-## Description
+## Description 🤝
 Short. 
 What was your motivation?  
 What problem does it solve?  
@@ -35,14 +35,14 @@ Why you used the technologies you used?
 ### How to Install and Run the Project
 optional
 
-### Dependencies
+### Dependencies  ⚠️
 Specify **dependencies to build** and **dependencies to deploy**.  
 Reminder: explicitly declare and isolate dependencies
 
-## Versions
+## Versions 🧪
 Specify **versions of software and tools** related to the project
 
-## Features
+## Features 🏓
 Consider following features for your furute repo:
 - Make it good looking - [Markdown syntax](https://www.markdownguide.org/basic-syntax/). It is also possible to use HTML syntax when markdown does not support something (eg pictures aligning).
 - Make it fun - use emoji 🥁
@@ -55,7 +55,8 @@ Consider following features for your furute repo:
 ![protect branch](https://public-bk-for-pics.s3.ca-central-1.amazonaws.com/git-template/CleanShot+2022-06-09+at+17.49.55.jpg)
 - Consider enabling [discussions](https://docs.github.com/en/discussions). Settings ➡️ Features ➡️ Discussions. Your community will be thankful for this nice channel to **discuss&collaborate**.
 - Consider enabling [github wiki](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis). It is made for development/contributors documentation. 
-- Consider enabling [Github pages](https://pages.github.com/). Settings ➡️ Pages.  It is static website to **host user documentation**. Conventionally hosted on `gh-pages` branch.
+- Consider enabling [Github pages](https://pages.github.com/). Settings ➡️ Pages.  It is static website to **host user documentation**. n
+- ntionally hosted on `gh-pages` branch.
     - Consider adding a [custom domain to Github Pages](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-a-subdomain). Like this one [github.maxim.run](http://github.maxim.run/). It is just a `CNAME`.
 - Create a logo for your project within 1 sec with this AI tool (namelix.com)[https://namelix.com/]. It generates a bunch of unique names from your keywords, makes stylish logos with corporate identities for each.
 
