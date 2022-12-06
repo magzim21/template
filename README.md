@@ -20,9 +20,15 @@ Usage:
 - Copy files if there are any to the new repo.
 - Push
 
+#### Building 🧱
+
+#### Deploying 🏋🏼
+
 ## Table of Contents (Optional)
 *optional  
 TODO
+
+#### Local Development  🤓
 
 ## Description 🤝
 Short. 
