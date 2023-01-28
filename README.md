@@ -134,6 +134,7 @@ Choose your license
 
 ## Include Credits
 A list with maintainers should be here. People you may relay on.  
+Add them to `docs/CODEOWNERS` per file or directory. [More about this](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners).
 
 
 Enjoy Coding ❤
