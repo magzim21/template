@@ -65,7 +65,7 @@ Consider following features for your furute repo:
 - ntionally hosted on `gh-pages` branch.
     - Consider adding a [custom domain to Github Pages](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-a-subdomain). Like this one [github.maxim.run](http://github.maxim.run/). It is just a `CNAME`.
 - Create a logo for your project within 1 sec with this AI tool (namelix.com)[https://namelix.com/]. It generates a bunch of unique names from your keywords, makes stylish logos with corporate identities for each.
-
+- Consider adding [visualization of your repo file structure](https://githubnext.com/projects/repo-visualization/)
 
 ## Project status
 I believe it is important.
