@@ -1,0 +1,4 @@
+
+#!/usr/bin/env bash
+
+npx validate-branch-name

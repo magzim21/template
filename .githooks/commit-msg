@@ -1,0 +1,9 @@
+#!/bin/sh
+# set -x
+
+# npm install -g @commitlint/config-conventional @commitlint/cli
+export NODE_PATH=/opt/homebrew/lib/node_modules/ # make sure that this matches to your global node_modules path
+CONFIG_PATH="$(git rev-parse --show-toplevel)/.githooks/.commitlintrc.yml"
+npx --no-install commitlint --config "$CONFIG_PATH" --edit "$1"
+
+
