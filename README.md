@@ -121,6 +121,8 @@ Conventional commits can be "enforced" with Husky. [Husky](https://typicode.gith
 `.githooks` directory
 `git config core.hooksPath .githooks`
 
+#### Or pre-commit
+[pre-commit doc](https://pre-commit.com/)
 
 #### Or husky 
 `./.husky` directory
