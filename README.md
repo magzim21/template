@@ -118,17 +118,18 @@ Conventional commits can be "enforced" with Husky. [Husky](https://typicode.gith
 
 ### Githooks
 #### My favourite 
-`.githooks` directory
+Does not install anything. Move `./.git/hooks` to `./.githooks` and let everyone know that you use hooks.  
 `git config core.hooksPath .githooks`
+
 
 #### Or pre-commit
 [pre-commit doc](https://pre-commit.com/)
 
 #### Or husky 
 `./.husky` directory
-Husky is a great vesatile tool, but it requires npx
-Do `npx husky install` to install **githooks** into this repo.
-`.husky/commit-msg` enforces commit messages to follow [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/).
+Husky is a great vesatile tool, but it requires `npx`.  
+Do `npx husky install` to install **githooks** into this repo.  
+Check `.husky/commit-msg` (the file in this repo) enforces commit messages to follow [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/).  
 In this repo `.commitlintrc.yaml` is for this purpose.
 
 
