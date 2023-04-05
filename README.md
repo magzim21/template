@@ -130,8 +130,12 @@ Does not install anything. Move `./.git/hooks` to `./.githooks` and let everyone
 Husky is a great vesatile tool, but it requires `npx`.  
 Do `npx husky install` to install **githooks** into this repo.  
 Check `.husky/commit-msg` (the file in this repo) enforces commit messages to follow [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/).  
+
+##### Linting commit messages
 In this repo `.commitlintrc.yaml` is for this purpose.
 
+##### Check for secrets committed
+[git secrets](https://github.com/awslabs/git-secrets)
 
 
 
