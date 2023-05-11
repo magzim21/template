@@ -120,6 +120,7 @@ Conventional commits can be "enforced" with Husky. [Husky](https://typicode.gith
 #### My favourite 
 Does not install anything. Move `./.git/hooks` to `./.githooks` and let everyone know that you use hooks.  
 `git config core.hooksPath .githooks`
+`npm install -g @commitlint/cli @commitlint/config-conventional`
 
 
 #### Or pre-commit
